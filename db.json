@@ -1,0 +1,12 @@
+{
+  "user":[
+    {
+      "id":1,
+      "name":"Kavishka",
+      "email":"example@gmail.com",
+      "contact":"0-2223334999",
+      "age":23,
+      "gender":"male"
+    }
+  ]
+}
